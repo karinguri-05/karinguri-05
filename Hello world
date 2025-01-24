@@ -1,0 +1,20 @@
+/*  program code to output hello world
+ * Author:Karinguri Penina
+ * Reg No:CT101/G/20195/23
+ * Date:23rd Jan 2025
+ */
+ 
+//main class
+public class Main {
+    
+   //main method 
+    public static void main(String[] args){
+       //outputs hello world. 
+        System.out.println("Hello, World!");
+    }
+        
+        
+        
+   
+
+}
